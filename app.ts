@@ -1,9 +1,41 @@
-import { serve } from "https://deno.land/std/http/server.ts";
+import { UserI, CtxI } from './api/interfaces.ts';
+import { Application, Router } from "https://deno.land/x/oak/mod.ts";
 
-const server = serve({ port: 8000 });
+const app = new Application();
+const router = new Router();
 
-console.log("http://localhost:8000/");
+const users: UserI[] = [{
+	id: '1',
+	name: 'Rinat'
+}, {
+	id: '2',
+	name: 'Sveta'
+}];
 
-for await (const req of server) {
-	req.respond({ body: "<h1>Hello World</h1>" });
-}
+router
+	.get('/api/users', ({ response }) => {
+		response.status = 200;
+		response.body = {
+			users
+		};
+	})
+	.get('/api/users/:id', ({ response, params }) => {
+		const user: UserI | undefined = users.find(u => u.id === params.id);
+
+		if (user) {
+			response.status = 200;
+			response.body = {
+				user
+			}
+		} else {
+			response.status = 404;
+			response.body = {
+				message: 'Not found'
+			}
+		}
+	});
+
+app.use(router.routes())
+
+console.log('http://localhost:8080');
+await app.listen({ port: 8080 });
