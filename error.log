@@ -1,0 +1,1511 @@
+Deno isolate init with snapshots.
+rust:shared_queue:reset
+DEBUG JS - cwd /Users/rinatdavlikamov/Documents/test_deno
+DEBUG JS - args []
+fetch_source_file specifier: https://deno.land/x/dex/mod.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/mod.ts"[0m
+byte pos BytePos(189) is on the line at byte pos BytePos(189)
+char pos CharPos(189) is on the line at char pos CharPos(189)
+byte is on line: 8
+fetch_source_file specifier: https://deno.land/x/dex/lib/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/index.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/knex.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/knex.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(28) is on the line at byte pos BytePos(28)
+char pos CharPos(28) is on the line at char pos CharPos(28)
+byte is on line: 2
+byte pos BytePos(62) is on the line at byte pos BytePos(62)
+char pos CharPos(62) is on the line at char pos CharPos(62)
+byte is on line: 3
+byte pos BytePos(109) is on the line at byte pos BytePos(109)
+char pos CharPos(109) is on the line at char pos CharPos(109)
+byte is on line: 4
+byte pos BytePos(159) is on the line at byte pos BytePos(159)
+char pos CharPos(159) is on the line at char pos CharPos(159)
+byte is on line: 6
+byte pos BytePos(203) is on the line at byte pos BytePos(203)
+char pos CharPos(203) is on the line at char pos CharPos(203)
+byte is on line: 7
+byte pos BytePos(261) is on the line at byte pos BytePos(261)
+char pos CharPos(261) is on the line at char pos CharPos(261)
+byte is on line: 8
+byte pos BytePos(315) is on the line at byte pos BytePos(315)
+char pos CharPos(315) is on the line at char pos CharPos(315)
+byte is on line: 9
+byte pos BytePos(363) is on the line at byte pos BytePos(363)
+char pos CharPos(363) is on the line at char pos CharPos(363)
+byte is on line: 10
+byte pos BytePos(415) is on the line at byte pos BytePos(415)
+char pos CharPos(415) is on the line at char pos CharPos(415)
+byte is on line: 11
+byte pos BytePos(600) is on the line at byte pos BytePos(600)
+char pos CharPos(600) is on the line at char pos CharPos(600)
+byte is on line: 15
+byte pos BytePos(654) is on the line at byte pos BytePos(654)
+char pos CharPos(654) is on the line at char pos CharPos(654)
+byte is on line: 16
+byte pos BytePos(708) is on the line at byte pos BytePos(708)
+char pos CharPos(708) is on the line at char pos CharPos(708)
+byte is on line: 17
+byte pos BytePos(764) is on the line at byte pos BytePos(764)
+char pos CharPos(764) is on the line at char pos CharPos(764)
+byte is on line: 18
+byte pos BytePos(824) is on the line at byte pos BytePos(824)
+char pos CharPos(824) is on the line at char pos CharPos(824)
+byte is on line: 19
+byte pos BytePos(884) is on the line at byte pos BytePos(884)
+char pos CharPos(884) is on the line at char pos CharPos(884)
+byte is on line: 20
+byte pos BytePos(944) is on the line at byte pos BytePos(944)
+char pos CharPos(944) is on the line at char pos CharPos(944)
+byte is on line: 21
+fetch_source_file specifier: https://deno.land/x/dex/lib/raw.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/raw.js"[0m
+byte pos BytePos(18) is on the line at byte pos BytePos(18)
+char pos CharPos(18) is on the line at char pos CharPos(18)
+byte is on line: 3
+byte pos BytePos(76) is on the line at byte pos BytePos(76)
+char pos CharPos(76) is on the line at char pos CharPos(76)
+byte is on line: 4
+byte pos BytePos(112) is on the line at byte pos BytePos(112)
+char pos CharPos(112) is on the line at char pos CharPos(112)
+byte is on line: 5
+byte pos BytePos(187) is on the line at byte pos BytePos(187)
+char pos CharPos(187) is on the line at char pos CharPos(187)
+byte is on line: 6
+byte pos BytePos(241) is on the line at byte pos BytePos(241)
+char pos CharPos(241) is on the line at char pos CharPos(241)
+byte is on line: 8
+byte pos BytePos(436) is on the line at byte pos BytePos(436)
+char pos CharPos(436) is on the line at char pos CharPos(436)
+byte is on line: 14
+byte pos BytePos(493) is on the line at byte pos BytePos(493)
+char pos CharPos(493) is on the line at char pos CharPos(493)
+byte is on line: 15
+byte pos BytePos(4494) is on the line at byte pos BytePos(4494)
+char pos CharPos(4494) is on the line at char pos CharPos(4494)
+byte is on line: 190
+fetch_source_file specifier: https://deno.land/x/dex/lib/client.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/client.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(28) is on the line at byte pos BytePos(28)
+char pos CharPos(28) is on the line at char pos CharPos(28)
+byte is on line: 2
+byte pos BytePos(56) is on the line at byte pos BytePos(56)
+char pos CharPos(56) is on the line at char pos CharPos(56)
+byte is on line: 3
+byte pos BytePos(90) is on the line at byte pos BytePos(90)
+char pos CharPos(90) is on the line at char pos CharPos(90)
+byte is on line: 4
+byte pos BytePos(130) is on the line at byte pos BytePos(130)
+char pos CharPos(130) is on the line at char pos CharPos(130)
+byte is on line: 5
+byte pos BytePos(175) is on the line at byte pos BytePos(175)
+char pos CharPos(175) is on the line at char pos CharPos(175)
+byte is on line: 7
+byte pos BytePos(222) is on the line at byte pos BytePos(222)
+char pos CharPos(222) is on the line at char pos CharPos(222)
+byte is on line: 8
+byte pos BytePos(272) is on the line at byte pos BytePos(272)
+char pos CharPos(272) is on the line at char pos CharPos(272)
+byte is on line: 10
+byte pos BytePos(321) is on the line at byte pos BytePos(321)
+char pos CharPos(321) is on the line at char pos CharPos(321)
+byte is on line: 11
+byte pos BytePos(372) is on the line at byte pos BytePos(372)
+char pos CharPos(372) is on the line at char pos CharPos(372)
+byte is on line: 12
+byte pos BytePos(425) is on the line at byte pos BytePos(425)
+char pos CharPos(425) is on the line at char pos CharPos(425)
+byte is on line: 13
+byte pos BytePos(480) is on the line at byte pos BytePos(480)
+char pos CharPos(480) is on the line at char pos CharPos(480)
+byte is on line: 14
+byte pos BytePos(535) is on the line at byte pos BytePos(535)
+char pos CharPos(535) is on the line at char pos CharPos(535)
+byte is on line: 15
+byte pos BytePos(593) is on the line at byte pos BytePos(593)
+char pos CharPos(593) is on the line at char pos CharPos(593)
+byte is on line: 17
+byte pos BytePos(708) is on the line at byte pos BytePos(708)
+char pos CharPos(708) is on the line at char pos CharPos(708)
+byte is on line: 20
+byte pos BytePos(766) is on the line at byte pos BytePos(766)
+char pos CharPos(766) is on the line at char pos CharPos(766)
+byte is on line: 21
+byte pos BytePos(841) is on the line at byte pos BytePos(841)
+char pos CharPos(841) is on the line at char pos CharPos(841)
+byte is on line: 22
+byte pos BytePos(912) is on the line at byte pos BytePos(912)
+char pos CharPos(912) is on the line at char pos CharPos(912)
+byte is on line: 24
+byte pos BytePos(960) is on the line at byte pos BytePos(960)
+char pos CharPos(960) is on the line at char pos CharPos(960)
+byte is on line: 25
+byte pos BytePos(1098) is on the line at byte pos BytePos(1098)
+char pos CharPos(1098) is on the line at char pos CharPos(1098)
+byte is on line: 30
+byte pos BytePos(1132) is on the line at byte pos BytePos(1132)
+char pos CharPos(1132) is on the line at char pos CharPos(1132)
+byte is on line: 31
+byte pos BytePos(1187) is on the line at byte pos BytePos(1187)
+char pos CharPos(1187) is on the line at char pos CharPos(1187)
+byte is on line: 33
+byte pos BytePos(1455) is on the line at byte pos BytePos(1455)
+char pos CharPos(1455) is on the line at char pos CharPos(1455)
+byte is on line: 40
+fetch_source_file specifier: https://deno.land/x/dex/lib/query/builder.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/query/builder.js"[0m
+byte pos BytePos(22) is on the line at byte pos BytePos(22)
+char pos CharPos(22) is on the line at char pos CharPos(22)
+byte is on line: 3
+byte pos BytePos(88) is on the line at byte pos BytePos(88)
+char pos CharPos(88) is on the line at char pos CharPos(88)
+byte is on line: 4
+byte pos BytePos(147) is on the line at byte pos BytePos(147)
+char pos CharPos(147) is on the line at char pos CharPos(147)
+byte is on line: 5
+byte pos BytePos(224) is on the line at byte pos BytePos(224)
+char pos CharPos(224) is on the line at char pos CharPos(224)
+byte is on line: 7
+byte pos BytePos(253) is on the line at byte pos BytePos(253)
+char pos CharPos(253) is on the line at char pos CharPos(253)
+byte is on line: 8
+byte pos BytePos(290) is on the line at byte pos BytePos(290)
+char pos CharPos(290) is on the line at char pos CharPos(290)
+byte is on line: 9
+byte pos BytePos(332) is on the line at byte pos BytePos(332)
+char pos CharPos(332) is on the line at char pos CharPos(332)
+byte is on line: 10
+byte pos BytePos(761) is on the line at byte pos BytePos(761)
+char pos CharPos(761) is on the line at char pos CharPos(761)
+byte is on line: 25
+byte pos BytePos(820) is on the line at byte pos BytePos(820)
+char pos CharPos(820) is on the line at char pos CharPos(820)
+byte is on line: 27
+byte pos BytePos(34336) is on the line at byte pos BytePos(34336)
+char pos CharPos(34336) is on the line at char pos CharPos(34336)
+byte is on line: 1287
+fetch_source_file specifier: https://deno.land/x/dex/lib/query/methods.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/query/methods.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/util/make-knex.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/util/make-knex.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(77) is on the line at byte pos BytePos(77)
+char pos CharPos(77) is on the line at char pos CharPos(77)
+byte is on line: 3
+byte pos BytePos(128) is on the line at byte pos BytePos(128)
+char pos CharPos(128) is on the line at char pos CharPos(128)
+byte is on line: 4
+byte pos BytePos(168) is on the line at byte pos BytePos(168)
+char pos CharPos(168) is on the line at char pos CharPos(168)
+byte is on line: 5
+byte pos BytePos(219) is on the line at byte pos BytePos(219)
+char pos CharPos(219) is on the line at char pos CharPos(219)
+byte is on line: 6
+byte pos BytePos(269) is on the line at byte pos BytePos(269)
+char pos CharPos(269) is on the line at char pos CharPos(269)
+byte is on line: 7
+byte pos BytePos(341) is on the line at byte pos BytePos(341)
+char pos CharPos(341) is on the line at char pos CharPos(341)
+byte is on line: 9
+fetch_source_file specifier: https://deno.land/x/dex/lib/util/parse-connection.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/util/parse-connection.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(60) is on the line at byte pos BytePos(60)
+char pos CharPos(60) is on the line at char pos CharPos(60)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/util/timeout.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/util/timeout.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/util/fake-client.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/util/fake-client.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/constants.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/constants.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/helpers.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/helpers.js"[0m
+byte pos BytePos(27) is on the line at byte pos BytePos(27)
+char pos CharPos(27) is on the line at char pos CharPos(27)
+byte is on line: 3
+byte pos BytePos(184) is on the line at byte pos BytePos(184)
+char pos CharPos(184) is on the line at char pos CharPos(184)
+byte is on line: 7
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mssql/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mssql/index.js"[0m
+byte pos BytePos(27) is on the line at byte pos BytePos(27)
+char pos CharPos(27) is on the line at char pos CharPos(27)
+byte is on line: 3
+byte pos BytePos(150) is on the line at byte pos BytePos(150)
+char pos CharPos(150) is on the line at char pos CharPos(150)
+byte is on line: 7
+byte pos BytePos(213) is on the line at byte pos BytePos(213)
+char pos CharPos(213) is on the line at char pos CharPos(213)
+byte is on line: 9
+byte pos BytePos(252) is on the line at byte pos BytePos(252)
+char pos CharPos(252) is on the line at char pos CharPos(252)
+byte is on line: 11
+byte pos BytePos(296) is on the line at byte pos BytePos(296)
+char pos CharPos(296) is on the line at char pos CharPos(296)
+byte is on line: 12
+byte pos BytePos(340) is on the line at byte pos BytePos(340)
+char pos CharPos(340) is on the line at char pos CharPos(340)
+byte is on line: 13
+byte pos BytePos(389) is on the line at byte pos BytePos(389)
+char pos CharPos(389) is on the line at char pos CharPos(389)
+byte is on line: 14
+byte pos BytePos(440) is on the line at byte pos BytePos(440)
+char pos CharPos(440) is on the line at char pos CharPos(440)
+byte is on line: 15
+byte pos BytePos(495) is on the line at byte pos BytePos(495)
+char pos CharPos(495) is on the line at char pos CharPos(495)
+byte is on line: 16
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mysql/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mysql/index.js"[0m
+byte pos BytePos(27) is on the line at byte pos BytePos(27)
+char pos CharPos(27) is on the line at char pos CharPos(27)
+byte is on line: 3
+byte pos BytePos(89) is on the line at byte pos BytePos(89)
+char pos CharPos(89) is on the line at char pos CharPos(89)
+byte is on line: 4
+byte pos BytePos(183) is on the line at byte pos BytePos(183)
+char pos CharPos(183) is on the line at char pos CharPos(183)
+byte is on line: 7
+byte pos BytePos(257) is on the line at byte pos BytePos(257)
+char pos CharPos(257) is on the line at char pos CharPos(257)
+byte is on line: 8
+byte pos BytePos(296) is on the line at byte pos BytePos(296)
+char pos CharPos(296) is on the line at char pos CharPos(296)
+byte is on line: 10
+byte pos BytePos(340) is on the line at byte pos BytePos(340)
+char pos CharPos(340) is on the line at char pos CharPos(340)
+byte is on line: 11
+byte pos BytePos(389) is on the line at byte pos BytePos(389)
+char pos CharPos(389) is on the line at char pos CharPos(389)
+byte is on line: 12
+byte pos BytePos(440) is on the line at byte pos BytePos(440)
+char pos CharPos(440) is on the line at char pos CharPos(440)
+byte is on line: 13
+byte pos BytePos(495) is on the line at byte pos BytePos(495)
+char pos CharPos(495) is on the line at char pos CharPos(495)
+byte is on line: 14
+byte pos BytePos(553) is on the line at byte pos BytePos(553)
+char pos CharPos(553) is on the line at char pos CharPos(553)
+byte is on line: 16
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mysql2/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mysql2/index.js"[0m
+byte pos BytePos(28) is on the line at byte pos BytePos(28)
+char pos CharPos(28) is on the line at char pos CharPos(28)
+byte is on line: 3
+byte pos BytePos(90) is on the line at byte pos BytePos(90)
+char pos CharPos(90) is on the line at char pos CharPos(90)
+byte is on line: 4
+byte pos BytePos(136) is on the line at byte pos BytePos(136)
+char pos CharPos(136) is on the line at char pos CharPos(136)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracledb/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracledb/index.js"[0m
+byte pos BytePos(30) is on the line at byte pos BytePos(30)
+char pos CharPos(30) is on the line at char pos CharPos(30)
+byte is on line: 3
+byte pos BytePos(230) is on the line at byte pos BytePos(230)
+char pos CharPos(230) is on the line at char pos CharPos(230)
+byte is on line: 10
+byte pos BytePos(292) is on the line at byte pos BytePos(292)
+char pos CharPos(292) is on the line at char pos CharPos(292)
+byte is on line: 11
+byte pos BytePos(341) is on the line at byte pos BytePos(341)
+char pos CharPos(341) is on the line at char pos CharPos(341)
+byte is on line: 12
+byte pos BytePos(398) is on the line at byte pos BytePos(398)
+char pos CharPos(398) is on the line at char pos CharPos(398)
+byte is on line: 13
+byte pos BytePos(439) is on the line at byte pos BytePos(439)
+char pos CharPos(439) is on the line at char pos CharPos(439)
+byte is on line: 14
+byte pos BytePos(569) is on the line at byte pos BytePos(569)
+char pos CharPos(569) is on the line at char pos CharPos(569)
+byte is on line: 17
+byte pos BytePos(638) is on the line at byte pos BytePos(638)
+char pos CharPos(638) is on the line at char pos CharPos(638)
+byte is on line: 18
+byte pos BytePos(712) is on the line at byte pos BytePos(712)
+char pos CharPos(712) is on the line at char pos CharPos(712)
+byte is on line: 19
+byte pos BytePos(756) is on the line at byte pos BytePos(756)
+char pos CharPos(756) is on the line at char pos CharPos(756)
+byte is on line: 20
+byte pos BytePos(804) is on the line at byte pos BytePos(804)
+char pos CharPos(804) is on the line at char pos CharPos(804)
+byte is on line: 21
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/postgres/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/postgres/index.js"[0m
+byte pos BytePos(25) is on the line at byte pos BytePos(25)
+char pos CharPos(25) is on the line at char pos CharPos(25)
+byte is on line: 3
+byte pos BytePos(150) is on the line at byte pos BytePos(150)
+char pos CharPos(150) is on the line at char pos CharPos(150)
+byte is on line: 7
+byte pos BytePos(224) is on the line at byte pos BytePos(224)
+char pos CharPos(224) is on the line at char pos CharPos(224)
+byte is on line: 8
+byte pos BytePos(286) is on the line at byte pos BytePos(286)
+char pos CharPos(286) is on the line at char pos CharPos(286)
+byte is on line: 9
+byte pos BytePos(325) is on the line at byte pos BytePos(325)
+char pos CharPos(325) is on the line at char pos CharPos(325)
+byte is on line: 11
+byte pos BytePos(374) is on the line at byte pos BytePos(374)
+char pos CharPos(374) is on the line at char pos CharPos(374)
+byte is on line: 12
+byte pos BytePos(431) is on the line at byte pos BytePos(431)
+char pos CharPos(431) is on the line at char pos CharPos(431)
+byte is on line: 13
+byte pos BytePos(486) is on the line at byte pos BytePos(486)
+char pos CharPos(486) is on the line at char pos CharPos(486)
+byte is on line: 14
+byte pos BytePos(537) is on the line at byte pos BytePos(537)
+char pos CharPos(537) is on the line at char pos CharPos(537)
+byte is on line: 15
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/redshift/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/redshift/index.js"[0m
+byte pos BytePos(23) is on the line at byte pos BytePos(23)
+char pos CharPos(23) is on the line at char pos CharPos(23)
+byte is on line: 3
+byte pos BytePos(85) is on the line at byte pos BytePos(85)
+char pos CharPos(85) is on the line at char pos CharPos(85)
+byte is on line: 4
+byte pos BytePos(131) is on the line at byte pos BytePos(131)
+char pos CharPos(131) is on the line at char pos CharPos(131)
+byte is on line: 5
+byte pos BytePos(203) is on the line at byte pos BytePos(203)
+char pos CharPos(203) is on the line at char pos CharPos(203)
+byte is on line: 8
+byte pos BytePos(247) is on the line at byte pos BytePos(247)
+char pos CharPos(247) is on the line at char pos CharPos(247)
+byte is on line: 9
+byte pos BytePos(296) is on the line at byte pos BytePos(296)
+char pos CharPos(296) is on the line at char pos CharPos(296)
+byte is on line: 10
+byte pos BytePos(351) is on the line at byte pos BytePos(351)
+char pos CharPos(351) is on the line at char pos CharPos(351)
+byte is on line: 11
+byte pos BytePos(408) is on the line at byte pos BytePos(408)
+char pos CharPos(408) is on the line at char pos CharPos(408)
+byte is on line: 12
+byte pos BytePos(463) is on the line at byte pos BytePos(463)
+char pos CharPos(463) is on the line at char pos CharPos(463)
+byte is on line: 13
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/sqlite3/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/sqlite3/index.js"[0m
+byte pos BytePos(22) is on the line at byte pos BytePos(22)
+char pos CharPos(22) is on the line at char pos CharPos(22)
+byte is on line: 3
+byte pos BytePos(84) is on the line at byte pos BytePos(84)
+char pos CharPos(84) is on the line at char pos CharPos(84)
+byte is on line: 4
+byte pos BytePos(184) is on the line at byte pos BytePos(184)
+char pos CharPos(184) is on the line at char pos CharPos(184)
+byte is on line: 7
+byte pos BytePos(259) is on the line at byte pos BytePos(259)
+char pos CharPos(259) is on the line at char pos CharPos(259)
+byte is on line: 9
+byte pos BytePos(298) is on the line at byte pos BytePos(298)
+char pos CharPos(298) is on the line at char pos CharPos(298)
+byte is on line: 11
+byte pos BytePos(347) is on the line at byte pos BytePos(347)
+char pos CharPos(347) is on the line at char pos CharPos(347)
+byte is on line: 12
+byte pos BytePos(398) is on the line at byte pos BytePos(398)
+char pos CharPos(398) is on the line at char pos CharPos(398)
+byte is on line: 13
+byte pos BytePos(455) is on the line at byte pos BytePos(455)
+char pos CharPos(455) is on the line at char pos CharPos(455)
+byte is on line: 14
+byte pos BytePos(510) is on the line at byte pos BytePos(510)
+char pos CharPos(510) is on the line at char pos CharPos(510)
+byte is on line: 15
+byte pos BytePos(553) is on the line at byte pos BytePos(553)
+char pos CharPos(553) is on the line at char pos CharPos(553)
+byte is on line: 16
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/inherits@2.0.4/inherits.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/inherits@2.0.4/inherits.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/events.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/events.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/debug@4.1.1/src/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/debug@4.1.1/src/index.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/lodash@4.17.15/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/lodash@4.17.15/index.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/util/save-async-stack.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/util/save-async-stack.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/uuid/mod.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/uuid/mod.ts"[0m
+byte pos BytePos(125) is on the line at byte pos BytePos(125)
+char pos CharPos(125) is on the line at char pos CharPos(125)
+byte is on line: 3
+byte pos BytePos(156) is on the line at byte pos BytePos(156)
+char pos CharPos(156) is on the line at char pos CharPos(156)
+byte is on line: 4
+byte pos BytePos(187) is on the line at byte pos BytePos(187)
+char pos CharPos(187) is on the line at char pos CharPos(187)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/interface.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/interface.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(98) is on the line at byte pos BytePos(98)
+char pos CharPos(98) is on the line at char pos CharPos(98)
+byte is on line: 4
+byte pos BytePos(170) is on the line at byte pos BytePos(170)
+char pos CharPos(170) is on the line at char pos CharPos(170)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/ref.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/ref.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/runner.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/runner.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(54) is on the line at byte pos BytePos(54)
+char pos CharPos(54) is on the line at char pos CharPos(54)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/formatter.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/formatter.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(47) is on the line at byte pos BytePos(47)
+char pos CharPos(47) is on the line at char pos CharPos(47)
+byte is on line: 2
+byte pos BytePos(75) is on the line at byte pos BytePos(75)
+char pos CharPos(75) is on the line at char pos CharPos(75)
+byte is on line: 3
+fetch_source_file specifier: https://deno.land/x/dex/lib/transaction.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/transaction.js"[0m
+byte pos BytePos(26) is on the line at byte pos BytePos(26)
+char pos CharPos(26) is on the line at char pos CharPos(26)
+byte is on line: 3
+byte pos BytePos(101) is on the line at byte pos BytePos(101)
+char pos CharPos(101) is on the line at char pos CharPos(101)
+byte is on line: 4
+byte pos BytePos(155) is on the line at byte pos BytePos(155)
+char pos CharPos(155) is on the line at char pos CharPos(155)
+byte is on line: 6
+byte pos BytePos(199) is on the line at byte pos BytePos(199)
+char pos CharPos(199) is on the line at char pos CharPos(199)
+byte is on line: 7
+byte pos BytePos(271) is on the line at byte pos BytePos(271)
+char pos CharPos(271) is on the line at char pos CharPos(271)
+byte is on line: 8
+byte pos BytePos(334) is on the line at byte pos BytePos(334)
+char pos CharPos(334) is on the line at char pos CharPos(334)
+byte is on line: 9
+byte pos BytePos(420) is on the line at byte pos BytePos(420)
+char pos CharPos(420) is on the line at char pos CharPos(420)
+byte is on line: 13
+fetch_source_file specifier: https://deno.land/x/dex/lib/query/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/query/compiler.js"[0m
+byte pos BytePos(29) is on the line at byte pos BytePos(29)
+char pos CharPos(29) is on the line at char pos CharPos(29)
+byte is on line: 3
+byte pos BytePos(66) is on the line at byte pos BytePos(66)
+char pos CharPos(66) is on the line at char pos CharPos(66)
+byte is on line: 4
+byte pos BytePos(95) is on the line at byte pos BytePos(95)
+char pos CharPos(95) is on the line at char pos CharPos(95)
+byte is on line: 5
+byte pos BytePos(136) is on the line at byte pos BytePos(136)
+char pos CharPos(136) is on the line at char pos CharPos(136)
+byte is on line: 6
+byte pos BytePos(178) is on the line at byte pos BytePos(178)
+char pos CharPos(178) is on the line at char pos CharPos(178)
+byte is on line: 7
+byte pos BytePos(233) is on the line at byte pos BytePos(233)
+char pos CharPos(233) is on the line at char pos CharPos(233)
+byte is on line: 9
+byte pos BytePos(561) is on the line at byte pos BytePos(561)
+char pos CharPos(561) is on the line at char pos CharPos(561)
+byte is on line: 21
+fetch_source_file specifier: https://deno.land/x/dex/lib/schema/builder.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/schema/builder.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(59) is on the line at byte pos BytePos(59)
+char pos CharPos(59) is on the line at char pos CharPos(59)
+byte is on line: 2
+byte pos BytePos(135) is on the line at byte pos BytePos(135)
+char pos CharPos(135) is on the line at char pos CharPos(135)
+byte is on line: 3
+byte pos BytePos(211) is on the line at byte pos BytePos(211)
+char pos CharPos(211) is on the line at char pos CharPos(211)
+byte is on line: 5
+byte pos BytePos(260) is on the line at byte pos BytePos(260)
+char pos CharPos(260) is on the line at char pos CharPos(260)
+byte is on line: 6
+byte pos BytePos(2042) is on the line at byte pos BytePos(2042)
+char pos CharPos(2042) is on the line at char pos CharPos(2042)
+byte is on line: 67
+fetch_source_file specifier: https://deno.land/x/dex/lib/schema/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/schema/compiler.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/schema/tablebuilder.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/schema/tablebuilder.js"[0m
+byte pos BytePos(363) is on the line at byte pos BytePos(363)
+char pos CharPos(363) is on the line at char pos CharPos(363)
+byte is on line: 9
+byte pos BytePos(547) is on the line at byte pos BytePos(547)
+char pos CharPos(547) is on the line at char pos CharPos(547)
+byte is on line: 15
+fetch_source_file specifier: https://deno.land/x/dex/lib/schema/tablecompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/schema/tablecompiler.js"[0m
+byte pos BytePos(53) is on the line at byte pos BytePos(53)
+char pos CharPos(53) is on the line at char pos CharPos(53)
+byte is on line: 5
+byte pos BytePos(125) is on the line at byte pos BytePos(125)
+char pos CharPos(125) is on the line at char pos CharPos(125)
+byte is on line: 6
+byte pos BytePos(162) is on the line at byte pos BytePos(162)
+char pos CharPos(162) is on the line at char pos CharPos(162)
+byte is on line: 7
+fetch_source_file specifier: https://deno.land/x/dex/lib/schema/columnbuilder.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/schema/columnbuilder.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(101) is on the line at byte pos BytePos(101)
+char pos CharPos(101) is on the line at char pos CharPos(101)
+byte is on line: 4
+fetch_source_file specifier: https://deno.land/x/dex/lib/schema/columncompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/schema/columncompiler.js"[0m
+byte pos BytePos(124) is on the line at byte pos BytePos(124)
+char pos CharPos(124) is on the line at char pos CharPos(124)
+byte is on line: 5
+byte pos BytePos(153) is on the line at byte pos BytePos(153)
+char pos CharPos(153) is on the line at char pos CharPos(153)
+byte is on line: 6
+byte pos BytePos(189) is on the line at byte pos BytePos(189)
+char pos CharPos(189) is on the line at char pos CharPos(189)
+byte is on line: 7
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/tarn.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/tarn.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/util.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/util.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(44) is on the line at byte pos BytePos(0)
+char pos CharPos(44) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/query/string.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/query/string.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/logger.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/logger.js"[0m
+byte pos BytePos(27) is on the line at byte pos BytePos(27)
+char pos CharPos(27) is on the line at char pos CharPos(27)
+byte is on line: 3
+byte pos BytePos(78) is on the line at byte pos BytePos(78)
+char pos CharPos(78) is on the line at char pos CharPos(78)
+byte is on line: 4
+byte pos BytePos(146) is on the line at byte pos BytePos(146)
+char pos CharPos(146) is on the line at char pos CharPos(146)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/assert.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/assert.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(44) is on the line at byte pos BytePos(0)
+char pos CharPos(44) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/query/joinclause.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/query/joinclause.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/query/constants.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/query/constants.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/migrate/Migrator.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/migrate/Migrator.js"[0m
+byte pos BytePos(23) is on the line at byte pos BytePos(23)
+char pos CharPos(23) is on the line at char pos CharPos(23)
+byte is on line: 3
+byte pos BytePos(242) is on the line at byte pos BytePos(242)
+char pos CharPos(242) is on the line at char pos CharPos(242)
+byte is on line: 10
+byte pos BytePos(301) is on the line at byte pos BytePos(301)
+char pos CharPos(301) is on the line at char pos CharPos(301)
+byte is on line: 11
+byte pos BytePos(418) is on the line at byte pos BytePos(418)
+char pos CharPos(418) is on the line at char pos CharPos(418)
+byte is on line: 17
+byte pos BytePos(473) is on the line at byte pos BytePos(473)
+char pos CharPos(473) is on the line at char pos CharPos(473)
+byte is on line: 18
+byte pos BytePos(539) is on the line at byte pos BytePos(539)
+char pos CharPos(539) is on the line at char pos CharPos(539)
+byte is on line: 19
+byte pos BytePos(597) is on the line at byte pos BytePos(597)
+char pos CharPos(597) is on the line at char pos CharPos(597)
+byte is on line: 20
+fetch_source_file specifier: https://deno.land/x/dex/lib/seed/Seeder.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/seed/Seeder.js"[0m
+byte pos BytePos(22) is on the line at byte pos BytePos(22)
+char pos CharPos(22) is on the line at char pos CharPos(22)
+byte is on line: 4
+byte pos BytePos(67) is on the line at byte pos BytePos(67)
+char pos CharPos(67) is on the line at char pos CharPos(67)
+byte is on line: 5
+byte pos BytePos(170) is on the line at byte pos BytePos(170)
+char pos CharPos(170) is on the line at char pos CharPos(170)
+byte is on line: 8
+byte pos BytePos(234) is on the line at byte pos BytePos(234)
+char pos CharPos(234) is on the line at char pos CharPos(234)
+byte is on line: 9
+fetch_source_file specifier: https://deno.land/x/dex/lib/functionhelper.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/functionhelper.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/util/batchInsert.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/util/batchInsert.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(128) is on the line at byte pos BytePos(128)
+char pos CharPos(128) is on the line at char pos CharPos(128)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/url.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/url.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(29) is on the line at byte pos BytePos(0)
+char pos CharPos(29) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/pg-connection-string@2.2.0/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/pg-connection-string@2.2.0/index.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mssql/transaction.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mssql/transaction.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(48) is on the line at byte pos BytePos(48)
+char pos CharPos(48) is on the line at char pos CharPos(48)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mssql/query/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mssql/query/compiler.js"[0m
+byte pos BytePos(34) is on the line at byte pos BytePos(34)
+char pos CharPos(34) is on the line at char pos CharPos(34)
+byte is on line: 3
+byte pos BytePos(91) is on the line at byte pos BytePos(91)
+char pos CharPos(91) is on the line at char pos CharPos(91)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mssql/schema/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mssql/schema/compiler.js"[0m
+byte pos BytePos(36) is on the line at byte pos BytePos(36)
+char pos CharPos(36) is on the line at char pos CharPos(36)
+byte is on line: 3
+byte pos BytePos(101) is on the line at byte pos BytePos(101)
+char pos CharPos(101) is on the line at char pos CharPos(101)
+byte is on line: 4
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mssql/schema/tablecompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mssql/schema/tablecompiler.js"[0m
+byte pos BytePos(69) is on the line at byte pos BytePos(69)
+char pos CharPos(69) is on the line at char pos CharPos(69)
+byte is on line: 5
+byte pos BytePos(134) is on the line at byte pos BytePos(134)
+char pos CharPos(134) is on the line at char pos CharPos(134)
+byte is on line: 6
+byte pos BytePos(196) is on the line at byte pos BytePos(196)
+char pos CharPos(196) is on the line at char pos CharPos(196)
+byte is on line: 7
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mssql/schema/columncompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mssql/schema/columncompiler.js"[0m
+byte pos BytePos(36) is on the line at byte pos BytePos(36)
+char pos CharPos(36) is on the line at char pos CharPos(36)
+byte is on line: 3
+byte pos BytePos(101) is on the line at byte pos BytePos(101)
+char pos CharPos(101) is on the line at char pos CharPos(101)
+byte is on line: 4
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mysql/transaction.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mysql/transaction.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(48) is on the line at byte pos BytePos(48)
+char pos CharPos(48) is on the line at char pos CharPos(48)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mysql/query/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mysql/query/compiler.js"[0m
+byte pos BytePos(34) is on the line at byte pos BytePos(34)
+char pos CharPos(34) is on the line at char pos CharPos(34)
+byte is on line: 3
+byte pos BytePos(91) is on the line at byte pos BytePos(91)
+char pos CharPos(91) is on the line at char pos CharPos(91)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mysql/schema/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mysql/schema/compiler.js"[0m
+byte pos BytePos(36) is on the line at byte pos BytePos(36)
+char pos CharPos(36) is on the line at char pos CharPos(36)
+byte is on line: 3
+byte pos BytePos(101) is on the line at byte pos BytePos(101)
+char pos CharPos(101) is on the line at char pos CharPos(101)
+byte is on line: 4
+byte pos BytePos(160) is on the line at byte pos BytePos(160)
+char pos CharPos(160) is on the line at char pos CharPos(160)
+byte is on line: 6
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mysql/schema/tablecompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mysql/schema/tablecompiler.js"[0m
+byte pos BytePos(81) is on the line at byte pos BytePos(81)
+char pos CharPos(81) is on the line at char pos CharPos(81)
+byte is on line: 5
+byte pos BytePos(146) is on the line at byte pos BytePos(146)
+char pos CharPos(146) is on the line at char pos CharPos(146)
+byte is on line: 6
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mysql/schema/columncompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mysql/schema/columncompiler.js"[0m
+byte pos BytePos(36) is on the line at byte pos BytePos(36)
+char pos CharPos(36) is on the line at char pos CharPos(36)
+byte is on line: 3
+byte pos BytePos(101) is on the line at byte pos BytePos(101)
+char pos CharPos(101) is on the line at char pos CharPos(101)
+byte is on line: 4
+byte pos BytePos(166) is on the line at byte pos BytePos(166)
+char pos CharPos(166) is on the line at char pos CharPos(166)
+byte is on line: 6
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/mysql2/transaction.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/mysql2/transaction.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(48) is on the line at byte pos BytePos(48)
+char pos CharPos(48) is on the line at char pos CharPos(48)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracledb/query/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracledb/query/compiler.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(194) is on the line at byte pos BytePos(194)
+char pos CharPos(194) is on the line at char pos CharPos(194)
+byte is on line: 7
+byte pos BytePos(256) is on the line at byte pos BytePos(256)
+char pos CharPos(256) is on the line at char pos CharPos(256)
+byte is on line: 8
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracledb/schema/columncompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracledb/schema/columncompiler.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(65) is on the line at byte pos BytePos(65)
+char pos CharPos(65) is on the line at char pos CharPos(65)
+byte is on line: 2
+byte pos BytePos(141) is on the line at byte pos BytePos(141)
+char pos CharPos(141) is on the line at char pos CharPos(141)
+byte is on line: 4
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracledb/utils.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracledb/utils.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/stream.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/stream.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(36) is on the line at byte pos BytePos(0)
+char pos CharPos(36) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(64) is on the line at byte pos BytePos(0)
+char pos CharPos(64) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(84) is on the line at byte pos BytePos(0)
+char pos CharPos(84) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(102) is on the line at byte pos BytePos(0)
+char pos CharPos(102) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(130) is on the line at byte pos BytePos(0)
+char pos CharPos(130) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(157) is on the line at byte pos BytePos(0)
+char pos CharPos(157) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracledb/transaction.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracledb/transaction.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(48) is on the line at byte pos BytePos(48)
+char pos CharPos(48) is on the line at char pos CharPos(48)
+byte is on line: 2
+byte pos BytePos(115) is on the line at byte pos BytePos(115)
+char pos CharPos(115) is on the line at char pos CharPos(115)
+byte is on line: 3
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracle/index.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracle/index.js"[0m
+byte pos BytePos(28) is on the line at byte pos BytePos(28)
+char pos CharPos(28) is on the line at char pos CharPos(28)
+byte is on line: 3
+byte pos BytePos(90) is on the line at byte pos BytePos(90)
+char pos CharPos(90) is on the line at char pos CharPos(90)
+byte is on line: 4
+byte pos BytePos(129) is on the line at byte pos BytePos(129)
+char pos CharPos(129) is on the line at char pos CharPos(129)
+byte is on line: 6
+byte pos BytePos(180) is on the line at byte pos BytePos(180)
+char pos CharPos(180) is on the line at char pos CharPos(180)
+byte is on line: 7
+byte pos BytePos(235) is on the line at byte pos BytePos(235)
+char pos CharPos(235) is on the line at char pos CharPos(235)
+byte is on line: 8
+byte pos BytePos(292) is on the line at byte pos BytePos(292)
+char pos CharPos(292) is on the line at char pos CharPos(292)
+byte is on line: 9
+byte pos BytePos(347) is on the line at byte pos BytePos(347)
+char pos CharPos(347) is on the line at char pos CharPos(347)
+byte is on line: 10
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracle/formatter.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracle/formatter.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(44) is on the line at byte pos BytePos(44)
+char pos CharPos(44) is on the line at char pos CharPos(44)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/postgres/query/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/postgres/query/compiler.js"[0m
+byte pos BytePos(49) is on the line at byte pos BytePos(49)
+char pos CharPos(49) is on the line at char pos CharPos(49)
+byte is on line: 3
+byte pos BytePos(106) is on the line at byte pos BytePos(106)
+char pos CharPos(106) is on the line at char pos CharPos(106)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/postgres/schema/columncompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/postgres/schema/columncompiler.js"[0m
+byte pos BytePos(42) is on the line at byte pos BytePos(42)
+char pos CharPos(42) is on the line at char pos CharPos(42)
+byte is on line: 4
+byte pos BytePos(107) is on the line at byte pos BytePos(107)
+char pos CharPos(107) is on the line at char pos CharPos(107)
+byte is on line: 5
+byte pos BytePos(171) is on the line at byte pos BytePos(171)
+char pos CharPos(171) is on the line at char pos CharPos(171)
+byte is on line: 6
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/postgres/schema/tablecompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/postgres/schema/tablecompiler.js"[0m
+byte pos BytePos(76) is on the line at byte pos BytePos(76)
+char pos CharPos(76) is on the line at char pos CharPos(76)
+byte is on line: 6
+byte pos BytePos(141) is on the line at byte pos BytePos(141)
+char pos CharPos(141) is on the line at char pos CharPos(141)
+byte is on line: 7
+byte pos BytePos(204) is on the line at byte pos BytePos(204)
+char pos CharPos(204) is on the line at char pos CharPos(204)
+byte is on line: 9
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/postgres/schema/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/postgres/schema/compiler.js"[0m
+byte pos BytePos(42) is on the line at byte pos BytePos(42)
+char pos CharPos(42) is on the line at char pos CharPos(42)
+byte is on line: 4
+byte pos BytePos(107) is on the line at byte pos BytePos(107)
+char pos CharPos(107) is on the line at char pos CharPos(107)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/redshift/transaction.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/redshift/transaction.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/redshift/query/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/redshift/query/compiler.js"[0m
+byte pos BytePos(47) is on the line at byte pos BytePos(47)
+char pos CharPos(47) is on the line at char pos CharPos(47)
+byte is on line: 3
+byte pos BytePos(103) is on the line at byte pos BytePos(103)
+char pos CharPos(103) is on the line at char pos CharPos(103)
+byte is on line: 4
+byte pos BytePos(169) is on the line at byte pos BytePos(169)
+char pos CharPos(169) is on the line at char pos CharPos(169)
+byte is on line: 6
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/redshift/schema/columnbuilder.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/redshift/schema/columnbuilder.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(65) is on the line at byte pos BytePos(65)
+char pos CharPos(65) is on the line at char pos CharPos(65)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/redshift/schema/columncompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/redshift/schema/columncompiler.js"[0m
+byte pos BytePos(40) is on the line at byte pos BytePos(40)
+char pos CharPos(40) is on the line at char pos CharPos(40)
+byte is on line: 4
+byte pos BytePos(105) is on the line at byte pos BytePos(105)
+char pos CharPos(105) is on the line at char pos CharPos(105)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/redshift/schema/tablecompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/redshift/schema/tablecompiler.js"[0m
+byte pos BytePos(74) is on the line at byte pos BytePos(74)
+char pos CharPos(74) is on the line at char pos CharPos(74)
+byte is on line: 6
+byte pos BytePos(139) is on the line at byte pos BytePos(139)
+char pos CharPos(139) is on the line at char pos CharPos(139)
+byte is on line: 7
+byte pos BytePos(213) is on the line at byte pos BytePos(213)
+char pos CharPos(213) is on the line at char pos CharPos(213)
+byte is on line: 9
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/redshift/schema/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/redshift/schema/compiler.js"[0m
+byte pos BytePos(74) is on the line at byte pos BytePos(74)
+char pos CharPos(74) is on the line at char pos CharPos(74)
+byte is on line: 6
+byte pos BytePos(139) is on the line at byte pos BytePos(139)
+char pos CharPos(139) is on the line at char pos CharPos(139)
+byte is on line: 7
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/sqlite3/query/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/sqlite3/query/compiler.js"[0m
+byte pos BytePos(37) is on the line at byte pos BytePos(37)
+char pos CharPos(37) is on the line at char pos CharPos(37)
+byte is on line: 3
+byte pos BytePos(94) is on the line at byte pos BytePos(94)
+char pos CharPos(94) is on the line at char pos CharPos(94)
+byte is on line: 5
+byte pos BytePos(136) is on the line at byte pos BytePos(136)
+char pos CharPos(136) is on the line at char pos CharPos(136)
+byte is on line: 6
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/sqlite3/schema/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/sqlite3/schema/compiler.js"[0m
+byte pos BytePos(49) is on the line at byte pos BytePos(49)
+char pos CharPos(49) is on the line at char pos CharPos(49)
+byte is on line: 3
+byte pos BytePos(114) is on the line at byte pos BytePos(114)
+char pos CharPos(114) is on the line at char pos CharPos(114)
+byte is on line: 4
+byte pos BytePos(173) is on the line at byte pos BytePos(173)
+char pos CharPos(173) is on the line at char pos CharPos(173)
+byte is on line: 6
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/sqlite3/schema/columncompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/sqlite3/schema/columncompiler.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(65) is on the line at byte pos BytePos(65)
+char pos CharPos(65) is on the line at char pos CharPos(65)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/sqlite3/schema/tablecompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/sqlite3/schema/tablecompiler.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(65) is on the line at byte pos BytePos(65)
+char pos CharPos(65) is on the line at char pos CharPos(65)
+byte is on line: 2
+byte pos BytePos(128) is on the line at byte pos BytePos(128)
+char pos CharPos(128) is on the line at char pos CharPos(128)
+byte is on line: 4
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/sqlite3/schema/ddl.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/sqlite3/schema/ddl.js"[0m
+byte pos BytePos(130) is on the line at byte pos BytePos(130)
+char pos CharPos(130) is on the line at char pos CharPos(130)
+byte is on line: 7
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/sqlite3/formatter.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/sqlite3/formatter.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(44) is on the line at byte pos BytePos(44)
+char pos CharPos(44) is on the line at char pos CharPos(44)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/inherits@2.0.4/inherits.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/inherits@2.0.4/inherits.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(58) is on the line at byte pos BytePos(58)
+char pos CharPos(58) is on the line at char pos CharPos(58)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/debug@4.1.1/src/index.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/debug@4.1.1/src/index.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(58) is on the line at byte pos BytePos(58)
+char pos CharPos(58) is on the line at char pos CharPos(58)
+byte is on line: 2
+byte pos BytePos(110) is on the line at byte pos BytePos(110)
+char pos CharPos(110) is on the line at char pos CharPos(110)
+byte is on line: 3
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/lodash@4.17.15/index.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/lodash@4.17.15/index.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/uuid/v1.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/uuid/v1.ts"[0m
+byte pos BytePos(76) is on the line at byte pos BytePos(76)
+char pos CharPos(76) is on the line at char pos CharPos(76)
+byte is on line: 3
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/uuid/v4.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/uuid/v4.ts"[0m
+byte pos BytePos(76) is on the line at byte pos BytePos(76)
+char pos CharPos(76) is on the line at char pos CharPos(76)
+byte is on line: 3
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/uuid/v5.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/uuid/v5.ts"[0m
+byte pos BytePos(76) is on the line at byte pos BytePos(76)
+char pos CharPos(76) is on the line at char pos CharPos(76)
+byte is on line: 3
+byte pos BytePos(171) is on the line at byte pos BytePos(171)
+char pos CharPos(171) is on the line at char pos CharPos(171)
+byte is on line: 9
+byte pos BytePos(211) is on the line at byte pos BytePos(211)
+char pos CharPos(211) is on the line at char pos CharPos(211)
+byte is on line: 10
+byte pos BytePos(255) is on the line at byte pos BytePos(255)
+char pos CharPos(255) is on the line at char pos CharPos(255)
+byte is on line: 11
+fetch_source_file specifier: https://deno.land/x/dex/lib/util/finally-mixin.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/util/finally-mixin.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/schema/helpers.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/schema/helpers.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/tarn.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/tarn.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(52) is on the line at byte pos BytePos(52)
+char pos CharPos(52) is on the line at char pos CharPos(52)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/chunk-dac557ba.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/chunk-dac557ba.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/chunk-0c2d1322.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/chunk-0c2d1322.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/colors/colors.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/colors/colors.ts"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/migrate/table-resolver.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/migrate/table-resolver.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/migrate/table-creator.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/migrate/table-creator.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/migrate/migration-list-resolver.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/migrate/migration-list-resolver.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(52) is on the line at byte pos BytePos(52)
+char pos CharPos(52) is on the line at char pos CharPos(52)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/migrate/MigrationGenerator.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/migrate/MigrationGenerator.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(45) is on the line at byte pos BytePos(45)
+char pos CharPos(45) is on the line at char pos CharPos(45)
+byte is on line: 2
+byte pos BytePos(109) is on the line at byte pos BytePos(109)
+char pos CharPos(109) is on the line at char pos CharPos(109)
+byte is on line: 3
+byte pos BytePos(170) is on the line at byte pos BytePos(170)
+char pos CharPos(170) is on the line at char pos CharPos(170)
+byte is on line: 4
+fetch_source_file specifier: https://deno.land/x/dex/lib/migrate/configuration-merger.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/migrate/configuration-merger.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/path/mod.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/path/mod.ts"[0m
+byte pos BytePos(120) is on the line at byte pos BytePos(120)
+char pos CharPos(120) is on the line at char pos CharPos(120)
+byte is on line: 4
+byte pos BytePos(158) is on the line at byte pos BytePos(158)
+char pos CharPos(158) is on the line at char pos CharPos(158)
+byte is on line: 5
+byte pos BytePos(537) is on the line at byte pos BytePos(537)
+char pos CharPos(537) is on the line at char pos CharPos(537)
+byte is on line: 30
+byte pos BytePos(566) is on the line at byte pos BytePos(566)
+char pos CharPos(566) is on the line at char pos CharPos(566)
+byte is on line: 31
+byte pos BytePos(617) is on the line at byte pos BytePos(617)
+char pos CharPos(617) is on the line at char pos CharPos(617)
+byte is on line: 32
+byte pos BytePos(649) is on the line at byte pos BytePos(649)
+char pos CharPos(649) is on the line at char pos CharPos(649)
+byte is on line: 33
+fetch_source_file specifier: https://deno.land/x/dex/lib/util/fs.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/util/fs.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/util/template.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/util/template.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/util/delay.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/util/delay.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/punycode.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/punycode.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/querystring.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/querystring.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/pg-connection-string@2.2.0/index.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/pg-connection-string@2.2.0/index.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracle/query/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracle/query/compiler.js"[0m
+byte pos BytePos(69) is on the line at byte pos BytePos(69)
+char pos CharPos(69) is on the line at char pos CharPos(69)
+byte is on line: 5
+byte pos BytePos(300) is on the line at byte pos BytePos(300)
+char pos CharPos(300) is on the line at char pos CharPos(300)
+byte is on line: 12
+byte pos BytePos(356) is on the line at byte pos BytePos(356)
+char pos CharPos(356) is on the line at char pos CharPos(356)
+byte is on line: 13
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracle/schema/columncompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracle/schema/columncompiler.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(76) is on the line at byte pos BytePos(76)
+char pos CharPos(76) is on the line at char pos CharPos(76)
+byte is on line: 3
+byte pos BytePos(141) is on the line at byte pos BytePos(141)
+char pos CharPos(141) is on the line at char pos CharPos(141)
+byte is on line: 4
+byte pos BytePos(176) is on the line at byte pos BytePos(176)
+char pos CharPos(176) is on the line at char pos CharPos(176)
+byte is on line: 5
+byte pos BytePos(240) is on the line at byte pos BytePos(240)
+char pos CharPos(240) is on the line at char pos CharPos(240)
+byte is on line: 6
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracle/utils.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracle/utils.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/buffer.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/buffer.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/chunk-6e68c801.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/chunk-6e68c801.js"[0m
+3-byte char at BytePos(1947)
+3-byte char at BytePos(1947)
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/chunk-cffba9d4.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/chunk-cffba9d4.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(43) is on the line at byte pos BytePos(0)
+char pos CharPos(43) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(86) is on the line at byte pos BytePos(0)
+char pos CharPos(86) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(115) is on the line at byte pos BytePos(0)
+char pos CharPos(115) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(142) is on the line at byte pos BytePos(0)
+char pos CharPos(142) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(196) is on the line at byte pos BytePos(0)
+char pos CharPos(196) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracle/schema/compiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracle/schema/compiler.js"[0m
+byte pos BytePos(37) is on the line at byte pos BytePos(37)
+char pos CharPos(37) is on the line at char pos CharPos(37)
+byte is on line: 3
+byte pos BytePos(102) is on the line at byte pos BytePos(102)
+char pos CharPos(102) is on the line at char pos CharPos(102)
+byte is on line: 4
+byte pos BytePos(160) is on the line at byte pos BytePos(160)
+char pos CharPos(160) is on the line at char pos CharPos(160)
+byte is on line: 5
+byte pos BytePos(193) is on the line at byte pos BytePos(193)
+char pos CharPos(193) is on the line at char pos CharPos(193)
+byte is on line: 6
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracle/schema/columnbuilder.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracle/schema/columnbuilder.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(65) is on the line at byte pos BytePos(65)
+char pos CharPos(65) is on the line at char pos CharPos(65)
+byte is on line: 2
+byte pos BytePos(128) is on the line at byte pos BytePos(128)
+char pos CharPos(128) is on the line at char pos CharPos(128)
+byte is on line: 4
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracle/schema/tablecompiler.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracle/schema/tablecompiler.js"[0m
+byte pos BytePos(24) is on the line at byte pos BytePos(24)
+char pos CharPos(24) is on the line at char pos CharPos(24)
+byte is on line: 3
+byte pos BytePos(89) is on the line at byte pos BytePos(89)
+char pos CharPos(89) is on the line at char pos CharPos(89)
+byte is on line: 4
+byte pos BytePos(122) is on the line at byte pos BytePos(122)
+char pos CharPos(122) is on the line at char pos CharPos(122)
+byte is on line: 5
+byte pos BytePos(184) is on the line at byte pos BytePos(184)
+char pos CharPos(184) is on the line at char pos CharPos(184)
+byte is on line: 6
+byte pos BytePos(227) is on the line at byte pos BytePos(227)
+char pos CharPos(227) is on the line at char pos CharPos(227)
+byte is on line: 7
+fetch_source_file specifier: https://deno.land/x/dex/lib/util/noop.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/util/noop.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/inherits@2.0.4/inherits_browser.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/inherits@2.0.4/inherits_browser.dew.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/debug@4.1.1/src/browser.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/debug@4.1.1/src/browser.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(56) is on the line at byte pos BytePos(56)
+char pos CharPos(56) is on the line at char pos CharPos(56)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/debug@4.1.1/src/node.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/debug@4.1.1/src/node.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(59) is on the line at byte pos BytePos(59)
+char pos CharPos(59) is on the line at char pos CharPos(59)
+byte is on line: 2
+byte pos BytePos(120) is on the line at byte pos BytePos(120)
+char pos CharPos(120) is on the line at char pos CharPos(120)
+byte is on line: 3
+byte pos BytePos(176) is on the line at byte pos BytePos(176)
+char pos CharPos(176) is on the line at char pos CharPos(176)
+byte is on line: 4
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/process.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/process.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/lodash@4.17.15/lodash.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/lodash@4.17.15/lodash.dew.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/uuid/_common.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/uuid/_common.ts"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/hash/sha1.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/hash/sha1.ts"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/node/util.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/node/util.ts"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/testing/asserts.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/testing/asserts.ts"[0m
+byte pos BytePos(75) is on the line at byte pos BytePos(75)
+char pos CharPos(75) is on the line at char pos CharPos(75)
+byte is on line: 2
+byte pos BytePos(141) is on the line at byte pos BytePos(141)
+char pos CharPos(141) is on the line at char pos CharPos(141)
+byte is on line: 3
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/Pool.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/Pool.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(76) is on the line at byte pos BytePos(76)
+char pos CharPos(76) is on the line at char pos CharPos(76)
+byte is on line: 2
+byte pos BytePos(136) is on the line at byte pos BytePos(136)
+char pos CharPos(136) is on the line at char pos CharPos(136)
+byte is on line: 3
+byte pos BytePos(190) is on the line at byte pos BytePos(190)
+char pos CharPos(190) is on the line at char pos CharPos(190)
+byte is on line: 4
+byte pos BytePos(256) is on the line at byte pos BytePos(256)
+char pos CharPos(256) is on the line at char pos CharPos(256)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/TimeoutError.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/TimeoutError.dew.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/migrate/sources/fs-migrations.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/migrate/sources/fs-migrations.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(48) is on the line at byte pos BytePos(48)
+char pos CharPos(48) is on the line at char pos CharPos(48)
+byte is on line: 2
+byte pos BytePos(126) is on the line at byte pos BytePos(126)
+char pos CharPos(126) is on the line at char pos CharPos(126)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/path/win32.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/path/win32.ts"[0m
+byte pos BytePos(140) is on the line at byte pos BytePos(140)
+char pos CharPos(140) is on the line at char pos CharPos(140)
+byte is on line: 5
+byte pos BytePos(208) is on the line at byte pos BytePos(208)
+char pos CharPos(208) is on the line at char pos CharPos(208)
+byte is on line: 6
+byte pos BytePos(315) is on the line at byte pos BytePos(315)
+char pos CharPos(315) is on the line at char pos CharPos(315)
+byte is on line: 13
+byte pos BytePos(431) is on the line at byte pos BytePos(431)
+char pos CharPos(431) is on the line at char pos CharPos(431)
+byte is on line: 20
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/path/posix.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/path/posix.ts"[0m
+byte pos BytePos(135) is on the line at byte pos BytePos(135)
+char pos CharPos(135) is on the line at char pos CharPos(135)
+byte is on line: 5
+byte pos BytePos(203) is on the line at byte pos BytePos(203)
+char pos CharPos(203) is on the line at char pos CharPos(203)
+byte is on line: 6
+byte pos BytePos(268) is on the line at byte pos BytePos(268)
+char pos CharPos(268) is on the line at char pos CharPos(268)
+byte is on line: 8
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/path/common.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/path/common.ts"[0m
+byte pos BytePos(76) is on the line at byte pos BytePos(76)
+char pos CharPos(76) is on the line at char pos CharPos(76)
+byte is on line: 3
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/path/separator.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/path/separator.ts"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/path/interface.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/path/interface.ts"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/path/glob.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/path/glob.ts"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(51) is on the line at byte pos BytePos(51)
+char pos CharPos(51) is on the line at char pos CharPos(51)
+byte is on line: 2
+byte pos BytePos(92) is on the line at byte pos BytePos(92)
+char pos CharPos(92) is on the line at char pos CharPos(92)
+byte is on line: 3
+byte pos BytePos(136) is on the line at byte pos BytePos(136)
+char pos CharPos(136) is on the line at char pos CharPos(136)
+byte is on line: 4
+fetch_source_file specifier: https://deno.land/x/dex/lib/dialects/oracle/schema/trigger.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/dialects/oracle/schema/trigger.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/debug@4.1.1/src/common.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/debug@4.1.1/src/common.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/tty.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/tty.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/fmt/colors.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/fmt/colors.ts"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/testing/diff.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/testing/diff.ts"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/PendingOperation.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/PendingOperation.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+byte pos BytePos(68) is on the line at byte pos BytePos(68)
+char pos CharPos(68) is on the line at char pos CharPos(68)
+byte is on line: 2
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/Resource.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/Resource.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/utils.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/utils.dew.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/timers.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/timers.js"[0m
+byte pos BytePos(0) is on the line at byte pos BytePos(0)
+char pos CharPos(0) is on the line at char pos CharPos(0)
+byte is on line: 1
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/path/_constants.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/path/_constants.ts"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/path/_util.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/path/_util.ts"[0m
+byte pos BytePos(113) is on the line at byte pos BytePos(113)
+char pos CharPos(113) is on the line at char pos CharPos(113)
+byte is on line: 4
+byte pos BytePos(169) is on the line at byte pos BytePos(169)
+char pos CharPos(169) is on the line at char pos CharPos(169)
+byte is on line: 5
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/path/_globrex.ts 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/path/_globrex.ts"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/ms@2.1.2/index.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/ms@2.1.2/index.dew.js"[0m
+fetch_source_file specifier: https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/PromiseInspection.dew.js 
+[0m[1m⚠️️  Granted network access to "https://deno.land/x/dex/lib/deps/tarn@3.0.0/dist/PromiseInspection.dew.js"[0m
+compiled filename: "/Users/rinatdavlikamov/Library/Caches/deno/gen/https/deno.land/x/dex/mod.ts.js"
+register_complete https://deno.land/x/dex/mod.ts
+register_complete https://deno.land/x/dex/lib/index.js
+register_complete https://deno.land/x/dex/lib/knex.js
+register_complete https://deno.land/x/dex/lib/raw.js
+register_complete https://deno.land/x/dex/lib/client.js
+register_complete https://deno.land/x/dex/lib/query/builder.js
+register_complete https://deno.land/x/dex/lib/query/methods.js
+register_complete https://deno.land/x/dex/lib/util/make-knex.js
+register_complete https://deno.land/x/dex/lib/util/parse-connection.js
+register_complete https://deno.land/x/dex/lib/util/timeout.js
+register_complete https://deno.land/x/dex/lib/util/fake-client.js
+register_complete https://deno.land/x/dex/lib/constants.js
+register_complete https://deno.land/x/dex/lib/helpers.js
+register_complete https://deno.land/x/dex/lib/dialects/mssql/index.js
+register_complete https://deno.land/x/dex/lib/dialects/mysql/index.js
+register_complete https://deno.land/x/dex/lib/dialects/mysql2/index.js
+register_complete https://deno.land/x/dex/lib/dialects/oracledb/index.js
+register_complete https://deno.land/x/dex/lib/dialects/postgres/index.js
+register_complete https://deno.land/x/dex/lib/dialects/redshift/index.js
+register_complete https://deno.land/x/dex/lib/dialects/sqlite3/index.js
+register_complete https://deno.land/x/dex/lib/deps/inherits@2.0.4/inherits.js
+register_complete https://deno.land/x/dex/lib/deps/@jspm/core@1.1.0/nodelibs/events.js
+register_complete https://deno.land/x/dex/lib/deps/debug@4.1.1/src/index.js
+register_complete https://deno.land/x/dex/lib/deps/lodash@4.17.15/index.js
+register_complete https://deno.land/x/dex/lib/util/save-async-stack.js
+[0m[1m[31merror[0m: No such file or directory (os error 2)
