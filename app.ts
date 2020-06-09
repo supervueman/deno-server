@@ -1,15 +1,7 @@
 import { Application, config } from './core/dependencies.ts';
-import { Database } from 'https://deno.land/x/denodb/mod.ts';
+
 // Routes
 import userRouter from './core/modules/user/routes.ts';
-
-const db = new Database('postgres', {
-	database: 'test_db_deno',
-	host: 'localhost',
-	username: 'postgres',
-	password: 'fer1nan2s',
-	port: 5432, // optional
-});
 
 // Env variables
 const envVars = config();
