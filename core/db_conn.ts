@@ -1,9 +1,12 @@
-import { Database } from './dependencies.td';
+import { Database } from './dependencies.ts';
+import { env } from './config.ts';
 
-export default new Database('postgres', {
-	database: config.DB_NAME,
-	host: config.DB_HOST,
-	username: config.DB_USERNAME,
-	password: config.DB_PASSWORD,
-	port: config.DB_PORT,
+const db = new Database('postgres', {
+	database: env.db_name,
+	host: env.db_host,
+	username: env.db_username,
+	password: env.db_password,
+	port: env.db_port,
 });
+
+export { db }
