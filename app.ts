@@ -1,12 +1,10 @@
 import { Application } from './core/dependencies.ts';
 import { env } from './core/config.ts';
 import { db } from './core/db_conn.ts';
+import { models } from './core/models.ts';
 
-// Models
-import { User } from './core/modules/user/models/index.ts';
-
-db.link([User])
-db.sync();
+db.sync({ drop: true });
+db.link([...models])
 
 // Routes
 import userRouter from './core/modules/user/routes.ts';
