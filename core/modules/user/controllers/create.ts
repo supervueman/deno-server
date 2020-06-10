@@ -14,7 +14,7 @@ export default async ({ response, request }: { response: any; request: any }) =>
 		const newUser: UserI = await User.create({
 			name: body.value.name,
 			email: body.value.email
-		})
+		});
 
 		response.status = 201;
 		response.body = { newUser }

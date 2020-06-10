@@ -1,9 +1,7 @@
-import { users } from '../data/users.ts';
-// Interfaces
-import { UserI } from '../interfaces.ts';
+import { User } from '../models/index.ts';
 
-export default ({ response, params }: { response: any, params: any }) => {
-	const user: UserI | undefined = users.find(u => u.id === params.id);
+export default async ({ response, params }: { response: any, params: any }) => {
+	const user = await User.find(params.id);
 
 	if (user) {
 		response.status = 200;

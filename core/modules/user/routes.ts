@@ -7,7 +7,7 @@ router
 	.get('/api/users', findAll)
 	.get('/api/users/:id', findById)
 	.post('/api/users', create)
-	.put('/api/user/:id', update)
-	.delete('/api/user/:id', remove)
+	.put('/api/users/:id', update)
+	.delete('/api/users/:id', remove)
 
 export default router;
